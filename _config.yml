@@ -17,8 +17,8 @@ title: Start Creating My Own Website
 email: kang.yang.oxford@gmail.com
 description: >
   Test of writing description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kangyang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/kangyang" # the subpath of your site, e.g. /blog
+url: "https://gitkangaroo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
